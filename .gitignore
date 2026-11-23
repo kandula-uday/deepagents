@@ -1,0 +1,16 @@
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.virtual_documents/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+build/
+dist/
+.DS_Store
